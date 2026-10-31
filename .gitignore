@@ -1,0 +1,8 @@
+# Compiled executable files
+*.exe
+
+# Output folder
+output/
+
+# Temporary files
+*.tmp
